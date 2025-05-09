@@ -6,3 +6,4 @@ accelerate
 bitsandbytes
 PyMuPDF
 transformers>=4.30.0
+llama-cpp-python==0.2.24
