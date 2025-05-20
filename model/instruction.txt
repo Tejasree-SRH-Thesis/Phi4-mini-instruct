@@ -1,0 +1,6 @@
+## Download the phi4 model Model:
+
+Phi-4-mini-instruct.Q4_K_S.gguf
+
+## From the following link:
+https://huggingface.co/MaziyarPanahi/Phi-4-mini-instruct-GGUF/tree/main
