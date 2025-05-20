@@ -59,8 +59,7 @@ JSON Structure:
   "DOI": "DOI if available",
   "Keywords": ["Keyword1", "Keyword2"],
   "Abstract": "Abstract text",
-  "Document Type": "Research Paper, Thesis, etc.",
-  "Number of References": 10
+  "Document Type": "Research Paper, Thesis, etc."
 }
 
 Extract metadata from the following scientific paper:
